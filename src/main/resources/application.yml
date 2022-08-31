@@ -1,5 +1,5 @@
 spring:
   application:
-    name: sample-service
+    name: sample-service2
   config:
     import: "optional:configserver:https://config1-charles3.apps.qqd02ebq.usgovvirginia.aroapp.azure.us/"

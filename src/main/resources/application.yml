@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: sample-service
+  config:
+    import: "optional:configserver:https://config1-charles3.apps.qqd02ebq.usgovvirginia.aroapp.azure.us/"
